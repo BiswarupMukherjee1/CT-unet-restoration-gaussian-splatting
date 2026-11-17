@@ -1,7 +1,7 @@
 # U-Net restoration and 3D Gaussian reconstruction for sparse-view and limited-angle CT
 
-Research project at LaBRI, Université de Bordeaux (M.Sc. IPCVai, two semesters, February 2026 to now).
-Joint work with [Md Zunayedul Islam](https://github.com/zunaaaaayed), supervised by Dr. Pascal Desbarats and
+Research project at LaBRI, Université de Bordeaux (M.Sc. IPCVai, February 2026 to now).
+Joint work with Md Zunayedul Islam, supervised by Dr. Pascal Desbarats and
 Anna-Louise Brun.
 
 A CT scan needs fewer X-ray projections, and so less radiation dose, if the reconstruction can cope with the missing
